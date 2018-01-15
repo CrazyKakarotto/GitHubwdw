@@ -1,0 +1,78 @@
+{
+    "command": "600101",
+    "page": {
+        "pageIndex": 0,
+        "pageSize": 20,
+        "total": 7
+    },
+    "timestamp": "2018-01-10 17:25:23",
+    "code": 0,
+    "message": "ok",
+    "data": {
+        "data": [
+            {
+                "gameId": 3,
+                "name": "足球",
+                "iconUrl": "https://pic.8win.com/game/events/2017/2/23/5388c1f0-eeb6-4e04-a181-38784596801e.png",
+                "sportType": 1,
+                "rank": 9998,
+                "typeFlag": 1,
+                "matchCount": 132
+            },
+            {
+                "gameId": 4,
+                "name": "篮球",
+                "iconUrl": "https://pic.8win.com/game/events/2017/2/23/836d3cb1-c607-433a-ac72-e6fc067c3e80.png",
+                "sportType": 0,
+                "rank": 9997,
+                "typeFlag": 1,
+                "matchCount": 25
+            },
+            {
+                "gameId": 43,
+                "name": "世界杯",
+                "iconUrl": "https://pic.8win.com/game/events/2017/11/18/20ae5c81-0d82-44c2-8399-905fd0c17802.png",
+                "sportType": 37,
+                "rank": 9993,
+                "typeFlag": 1,
+                "matchCount": 1
+            },
+            {
+                "gameId": 7,
+                "name": "风云体育",
+                "iconUrl": "https://pic.8win.com/game/events/2017/2/23/14df539f-d739-4262-9892-c48a0f595906.png",
+                "sportType": 4,
+                "rank": 9989,
+                "typeFlag": 0,
+                "matchCount": 3
+            },
+            {
+                "gameId": 30,
+                "name": "冰球",
+                "iconUrl": "https://pic.8win.com/game/events/2017/2/22/b01186d5-7cc6-46db-9ec4-6312385e566b.png",
+                "sportType": 27,
+                "rank": 9885,
+                "typeFlag": 1,
+                "matchCount": 1
+            },
+            {
+                "gameId": 5,
+                "name": "羽毛球",
+                "iconUrl": "https://pic.8win.com/game/events/2017/2/23/a5d7f9de-03a2-4d96-9a61-bd0f92a10bf3.png",
+                "sportType": 2,
+                "rank": 1,
+                "typeFlag": 1,
+                "matchCount": 1
+            },
+            {
+                "gameId": 39,
+                "name": "数字猜",
+                "iconUrl": "https://pic.8win.com/game/events/2017/2/23/d9c75d4f-b50b-477f-b969-249430ac8de1.png",
+                "sportType": 33,
+                "rank": 1,
+                "typeFlag": 1,
+                "matchCount": 4
+            }
+        ]
+    }
+}

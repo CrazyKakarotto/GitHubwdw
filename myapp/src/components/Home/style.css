@@ -1,0 +1,35 @@
+.span{
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    color:#f00;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+}
+.bg{
+    background: #f00;
+    color:#fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    display: inline-block;
+    padding: 5px;
+    margin: 10px;
+}
+span.wdw{
+    border: 1px solid #f00!important;
+    background: #f00!important;
+}
+.left{
+    float: left;
+    width: 20%;
+    border:1px solid #ccc;
+    height: 500px;
+    overflow-y: scroll;
+}
+.right{
+    float: left;
+    width: 78%;
+    border:1px solid #ccc;
+    height: 500px;
+    overflow-y: scroll;
+}

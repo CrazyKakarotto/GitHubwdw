@@ -1,0 +1,10 @@
+span{
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 5px;
+}
+.wdw{
+    border: 1px solid #f00!important;
+    background: #f00!important;
+}
